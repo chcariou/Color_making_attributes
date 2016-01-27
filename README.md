@@ -1,4 +1,12 @@
-<p>Code R for get color-making attributes</p>
+# My R functions on colors
+Christophe Cariou, January 2016.
 
-- <p>Part One: Get color of each pixel</p>
-- <p>Part Two: Get color-making attributes of an image (<a href="http://en.wikipedia.org/wiki/HSL_and_HSV">Wikipedia article</a>)</p>
+# colors.kmeans
+Extract colors from image + Extract color palette with kmeans algorithm. Libraries: raster.
+
+# colors.attributes
+Extract colors attributes from RGB colors.
+
+
+
+
